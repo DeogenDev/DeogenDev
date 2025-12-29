@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"> Hi there! My name is Deogen
-<h3 align="center">🐍 Python developer</h3>
+<h3 align="start">🐍 Python developer</h3>
 ## 💻 My Stack
-<div align="center">
+<div align="start">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -22,8 +22,6 @@
 </div>
 
 ## 🛠 My Skills
-
-I specialize in backend development with a strong focus on clean architecture and maintainable code.
 
 ### 📂 Core Backend
 - **SQLAlchemy** (ORM) & **Alembic** (migrations)
