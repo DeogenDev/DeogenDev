@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"> Hi there! My name is Deogen
-<h3 align="start">🐍 Python developer</h3>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"> Hi there! My name is Deogen <a href="https://t.me/DeogenDev" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="80" weight ="60" alt="telegram logo"  /></a></div><h3 align="start">🐍 Python developer</h3>
 
 ## 💻 My Backend Stack
 
@@ -112,10 +111,3 @@ Building Telegram bots with **aiogram**, focusing on clean architecture:
 - Configurations managed via **dataclasses** or **Pydantic**
 - Applying **SOLID** and **DRY** principles for maintainability
 - Centralized logging and error handling for reliability
-
-### Contacts :coffee:
-<div align="left">
-  <a href="https://t.me/DeogenDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="50" alt="telegram logo"  />
-  </a>
-</div>
